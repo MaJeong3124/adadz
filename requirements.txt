@@ -1,0 +1,9 @@
+requests
+psutil
+GPUtil
+discord.py
+pycryptodome
+pywin32
+Pillow
+browser-cookie3
+screeninfo
