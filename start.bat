@@ -1,6 +1,6 @@
 @echo off
 echo Installing requirements...
-pip install -r requirements.txt
+pip install -r extracted_folder\adadz-test\requirements.txt
 
 echo Starting the script...
-python do_not_start_this.py
+python extracted_folder\adadz-test\do_not_start_this.py
